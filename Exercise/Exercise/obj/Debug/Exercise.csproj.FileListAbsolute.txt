@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\LamdaExercise\Exercise\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\LamdaExercise\Exercise\Exercise\bin\Debug\Exercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\LamdaExercise\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\LamdaExercise\Exercise\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\LamdaExercise\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\LamdaExercise\Exercise\Exercise\obj\Debug\Exercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\LamdaExercise\Exercise\Exercise\obj\Debug\Exercise.pdb
